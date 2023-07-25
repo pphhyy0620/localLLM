@@ -91,7 +91,6 @@ def load_model(device_type, model_id, model_basename=None):
         model = AutoModelForCausalLM.from_pretrained(
             model_id,
             device_map="auto",
-            offload_folder="offload",
             torch_dtype=torch.float16,
             low_cpu_mem_usage=True,
             trust_remote_code=True,
