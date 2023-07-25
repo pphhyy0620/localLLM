@@ -6,6 +6,9 @@
 - local에서 LLM을 사용함으로써, 데이터 유출없이 사용하는 것이 가능해짐
 - 모델은 Vicuna-7B를 사용하였고, InstructorEmbeddings을 사용하였음
 - 그 외, 프로젝트 내에서 LangChain, GPT4All, LlamaCpp, Chroma, SentenceTransformers가 사용되었음
+![image](https://github.com/pphhyy0620/localLLM/assets/122515100/3d0a2e87-6977-4ec2-9b26-153197aa3c9c)
+
+
 
 # Environment Setup
 가상환경 생성
