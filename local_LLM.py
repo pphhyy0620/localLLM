@@ -1,3 +1,6 @@
+# This code is based on [localGPT], originally created by [PromptEngineer].
+# Modified by pphhyy0620 under the terms of the Apache License, Version 2.0.
+
 import logging
 
 import click
