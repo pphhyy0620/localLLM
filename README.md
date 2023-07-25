@@ -23,7 +23,7 @@ conda activate localllm
  ```
 git clone 
  ```
-git clone
+git clone https://github.com/pphhyy0620/localLLM.git
  ``` 
 path 지정
  ``` 
