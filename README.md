@@ -52,5 +52,4 @@ python local_LLM.py --device_type cpu
 
 - 종료하고 싶다면 `exit`를 query에 적으시면 종료됩니다.
 
-# 결과
 
